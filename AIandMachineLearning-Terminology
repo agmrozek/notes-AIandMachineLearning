@@ -1,0 +1,26 @@
+##############################################################
+                 TOC - TABLE OF CONTENTS
+##############################################################
+
+1) Fundamental AI/ML Terminology
+    1.1) Regenerative Artificial intelligence
+
+**************************************************************
+1) FUNDAMENTAL AI/ML TERMINOLOGY
+**************************************************************
+------------------------------------------
+1.1) Regenerative Artificial intelligence
+------------------------------------------
+
+Generative AI refers to a type of artificial intelligence that 
+is able to generate or create new data or content. It is typically 
+used to describe AI systems that are able to generate text, images, 
+or other types of media. There are several different approaches to 
+building generative AI systems, but one common approach is to use 
+deep learning algorithms, such as a variant of a generative adversarial 
+network (GAN), to learn the patterns and characteristics of a particular 
+type of data and then use that knowledge to generate new, synthetic 
+examples of the data. Generative AI has a wide range of applications, 
+including in the arts, media, and entertainment industries, as well as 
+in scientific research and other areas where the ability to generate 
+new data or content can be valuable.
