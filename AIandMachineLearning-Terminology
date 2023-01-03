@@ -3,13 +3,13 @@
 ##############################################################
 
 1) Fundamental AI/ML Terminology
-    1.1) Regenerative Artificial intelligence
+    1.1) Generative Artificial intelligence
 
 **************************************************************
 1) FUNDAMENTAL AI/ML TERMINOLOGY
 **************************************************************
 ------------------------------------------
-1.1) Regenerative Artificial intelligence
+1.1) Generative Artificial intelligence
 ------------------------------------------
 
 Generative AI refers to a type of artificial intelligence that 
@@ -24,3 +24,8 @@ examples of the data. Generative AI has a wide range of applications,
 including in the arts, media, and entertainment industries, as well as 
 in scientific research and other areas where the ability to generate 
 new data or content can be valuable.
+
+A generative adversarial network (GAN) is a class of machine learning 
+frameworks designed by Ian Goodfellow and his colleagues in June 2014. 
+Two neural networks contest with each other in the form of a zero-sum game, 
+where one agent's gain is another agent's loss.
